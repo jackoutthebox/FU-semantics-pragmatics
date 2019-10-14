@@ -9,7 +9,7 @@
 ## Instructors
 
 |	**John M. Tomlinson, Jr. PhD**	|		Leibniz ZAS |
-|	(tomlinsonjm@zedat.fu-berlin.de) 	|	Schützenstr. 18 (Zi. 425) |
+|	(tomlinsonjm AT zedat.fu-berlin.de) or (tomlinson AT leibniz-zas.de)	|	Schützenstr. 18 (Zi. 425) |
 |	+49 (0)30 20192 419	|	10117 BERLIN |
 
 
@@ -47,7 +47,7 @@ Here we will provide the readings as well as various scripts for running the onl
 | ------------- | ------------- | ------------ 		|------------ |
 | 13.11.19	| Plurals/definitness (NPs) | 	|	    |
 | ------------- | ------------- | ------------ 		|------------ |
-| 20.11.19	| Semantic change	| 	|	Eckardt (2006) Ch. 4; Clark & Clark (1979)	  |
+| 20.11.19	| Semantic change	| Eckardt (2006) Ch. 4; Clark & Clark (1979)	|		  |
 | ------------- | ------------- | ------------ 		|------------ |
 | 27.11.19		| Common Ground/Presuppositions	| Lewis, Stalnaker	|	    |
 | ------------- | ------------- | ------------ 		|------------ |
