@@ -36,33 +36,33 @@ For students only wanting a “Teilnahmbescheinigung”, you will only need to p
 |  -------------| ------------- | -------------	| ------------ |
 | 23.10.19		| CLASS CANCELED		| Portner ch. 1 (1.-27)	|			  |
 | ------------- | ------------- | ------------ 		|------------ |
-| 30.10.19	| Lexical semantics		| Partee (1995)(pgs); Johnson (2008) 	|			  |
+| 30.10.19		| Lexical semantics		| Partee (1995)(pgs); Johnson (2008) 	|			  |
 | ------------- | ------------- | ------------ 		|------------ |
-| 06.11.19	| Semantic composition (predicates)		| Portner ch. 2	|			  |
+| 06.11.19		| Semantic composition (predicates)		| Portner ch. 2	|			  |
 | ------------- | ------------- | ------------ 		|------------ |
-| 13.11.19	| Plurals/definitness (NPs) | Heim (1991)	|	    |
+| 13.11.19		| Plurals/definitness (NPs) | Heim (1991)	|	    |
 | ------------- | ------------- | ------------ 		|------------ |
-| 20.11.19	| Semantic change	| Eckardt (2006) Ch. 4; Clark & Clark (1979)	|		  |
+| 20.11.19		| Semantic change	| Eckardt (2006) Ch. 4; Clark & Clark (1979)	|		  |
 | ------------- | ------------- | ------------ 		|------------ |
 | 27.11.19		| Common Ground/Presuppositions	| Stalnaker (2002);Clark (1996)|	    |
 | ------------- | ------------- | ------------ 		|------------ |
-| 4.12.19	| 	|  Questions	|	   |  Farkas & Bruce (2010) |
+| 4.12.19		| Questions|  Farkas & Bruce (2010)	|	   |   
 | ------------- | ------------- | ------------ 		|------------ |
-| 11.12.19	| Speech Acts I	| 	|	 Searle (1960)   |
+| 11.12.19		| Speech Acts I	| 	|	 Searle (1960)   |
 | ------------- | ------------- | ------------ 		|------------ |
-| 18.12.19	| CLASS CANCELED	| 	|	    |   |
+| 18.12.19		| CLASS CANCELED	| 	|	    |   |
 | ------------- | ------------- | ------------ 		|------------ |
-| 08.01.19	|  Implicatures	| 	|	Grice (1957); Grice (1969)    |		 |
+| 08.01.19		|  Implicatures	| 	|	Grice (1957); Grice (1969)    |		 |
 | ------------- | ------------- | ------------ 		|------------ |
-| 15.01.19	| Adjectives, modiers, and scales	| 	|	 Levinson (2002)  |		 |
+| 15.01.19		| Adjectives, modiers, and scales	| 	|	 Levinson (2002)  |		 |
 | ------------- | ------------- | ------------ 		|------------ |
-| 22.01.19	| Metaphors & Irony| 	|	 Glucksberg; Gibbs   |		 |
+| 22.01.19		| Metaphors & Irony| 	|	 Glucksberg; Gibbs   |		 |
 | ------------- | ------------- | ------------ 		|------------ |
-| 29.01.19	| Intonational meaning | 	|	Prieto (2015)    |		 |
+| 29.01.19		| Intonational meaning | 	|	Prieto (2015)    |		 |
 | ------------- | ------------- | ------------ 		|------------ |
-| 5.02.19	|Conversation/Dialogue|  Levinson & Torreria (2015)	|	    |		 |
+| 5.02.19		|Conversation/Dialogue|  Levinson & Torreria (2015)	|	    |		 |
 | ------------- | ------------- | ------------ 		|------------ |
-| 12.02.19	|Social meaning & Pragmatics| 	|	    |		 |
+| 12.02.19		|Social meaning & Pragmatics| 	|	    |		 |
 | ------------- | ------------- | ------------ 		|------------ |
 
 		
