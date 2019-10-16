@@ -84,6 +84,8 @@ https://allthingslinguistic.com/
 
 https://www.economist.com/johnson/
 
+https://www.theatlantic.com/technology/archive/2018/01/the-shallowness-of-google-translate/551570/?fbclid=IwAR124VTJWdwysV8-zYvLedZ4mghLmEEvZ_ZsN6vyabyEQr8h5u8y1oJwwOM
+
 (nice podcast)
  https://slate.com/podcasts/lexicon-valley
 
