@@ -2,15 +2,16 @@
 
 ## General Info
 
-|	Winter Semester 2018: |	16.Oktober 2019 bis 12.Febuaur 2020 |
-|	Zeit: |	Mittwochs, 16 - 18 Uhr (c.t.) |
-|	Ort:	|JK 31/124 (Habelschwerdter Allee 45)	|
+|	Winter Semester 2019/2020: | 
+| 16.Oktober bis 12.Febuaur 2020 |
+| Zeit:	Mittwochs, 16 - 18 Uhr (c.t.) |
+| Ort: JK 31/124 (Habelschwerdter Allee 45)	|
 
 ## Instructors
 
 |	**Dr. John M. Tomlinson, Jr.**	|		Leibniz ZAS |
 |	(tomlinsonjm AT zedat.fu-berlin.de) or (tomlinson AT leibniz-zas.de)	|	Schützenstr. 18 (Zi. 425) |
-|	+49 (0)30 20192 419	|	10117 BERLIN |
+|	+49 (0)30 20192 419	|	10117 BERLIN | https://www.leibniz-zas.de/de/personen/details/tomlinson-john/john-tomlinson/ |
 
 
 Sprechstuden nach Verabredung (can meet before class at a café on campus)
@@ -68,9 +69,9 @@ For students only wanting a “Teilnahmbescheinigung”, you will only need to p
 		
 ##Useful links ##
 
-[Link](https://github.com/jackoutthebox/semantics-pragmatics-class) 
+[Github](https://github.com/jackoutthebox/semantics-pragmatics-class) 
 
-[Link](https://www.dropbox.com/sh/4hsfsvjccc9jl38/AADNZJ6ujmXuO0UoALnPKEzIa?dl=0)
+[Blackboard](https://lms.fu-berlin.de/webapps/blackboard/content/listContentEditable.jsp?content_id=_3858557_1&course_id=_138133_1&content_id=_3858557_1#)
 
 
 
