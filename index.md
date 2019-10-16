@@ -8,20 +8,22 @@
 
 ## Instructors
 
-|	**John M. Tomlinson, Jr. PhD**	|		Leibniz ZAS |
+|	**Dr. John M. Tomlinson, Jr.**	|		Leibniz ZAS |
 |	(tomlinsonjm AT zedat.fu-berlin.de) or (tomlinson AT leibniz-zas.de)	|	Schützenstr. 18 (Zi. 425) |
 |	+49 (0)30 20192 419	|	10117 BERLIN |
 
 
-Sprechstuden nach Verabredung
+Sprechstuden nach Verabredung (can meet before class at a café on campus)
 
 
 ### Grading/class requirements
 
 1. Hausarbeit (90% of grade) - Students are responsible for writing an orginal research proposal on a question at the semantics-pragmatics interface. Research questions should be based on well-founded and concrete research question. Ultimately, this question should inform an existing debate that we have covered in lecture. In addition, students will need to provide some empirical observation and need to propose a methodolgy for testing between explanations for certain data points. Students' exam papers will be assesed for 1) how clearly demonstrate why the problem they want to investigate is actually a problem 2) discuss how prior work has sought to address this problem 3) provide an argument about where prior work has fallen short 4) propose a novel way of addressing this problem via some methodology. 
 
+I have provided additional readings for those that want to deeper their understanding of a debate within a given topic. I welcome students asking questions about a topic (given that it is relevant to the current lecture), and we can use class time to briefly discuss this and potentially get feedback from other students. Having said that, it might be preferable to meet before or after class. 
+
 2. Discussion questions (10% of grade)
-Students need to prepare 2 questions for the required reading for each lecture. These questions can range from things that you didn't understand  Questions need to be posted on blackboard **Tuesday night before 10PM**, i.e. the evening before class. This allows me to better tailor my lecture to what you did and did not understand, but these questions will also serve as a basis for class dicsussions. t
+Students need to prepare 2 questions for the required reading for each lecture. These questions can range from things that you didn't understand  Questions need to be posted on blackboard **Tuesday night before 10PM**, i.e. the evening before class. This allows me to better tailor my lecture to what you did and did not understand, but these questions will also serve as a basis for class dicsussions. 
 
 
 For students only wanting a “Teilnahmbescheinigung”, you will only need to participant to submit discussion questions and attend the lectures. 
@@ -42,21 +44,21 @@ For students only wanting a “Teilnahmbescheinigung”, you will only need to p
 | ------------- | ------------- | ------------ 		|------------ |
 | 20.11.19	| Semantic change	| Eckardt (2006) Ch. 4; Clark & Clark (1979)	|		  |
 | ------------- | ------------- | ------------ 		|------------ |
-| 27.11.19		| Common Ground/Presuppositions	| Stalnaker (2002);	|	    |
+| 27.11.19		| Common Ground/Presuppositions	| Stalnaker (2002);Clark (1996)|	    |
 | ------------- | ------------- | ------------ 		|------------ |
-| 4.12.19	| 	|  Speech Acts I	|	Searle (1960)   |
+| 4.12.19	| 	|  Questions	|	   |  Farkas & Bruce (2010) |
 | ------------- | ------------- | ------------ 		|------------ |
-| 11.12.19	| Speech Acts II	| 	|	    |
+| 11.12.19	| Speech Acts I	| 	|	 Searle (1960)   |
 | ------------- | ------------- | ------------ 		|------------ |
 | 18.12.19	| CLASS CANCELED	| 	|	    |   |
 | ------------- | ------------- | ------------ 		|------------ |
-| 08.01.19	|  Implicatures I	| 	|	Grice (1957); Grice (1969)    |		 |
+| 08.01.19	|  Implicatures	| 	|	Grice (1957); Grice (1969)    |		 |
 | ------------- | ------------- | ------------ 		|------------ |
-| 15.01.19	| Implicatures II/Metaphors	| 	|	 Levinson (2002)   |		 |
+| 15.01.19	| Adjectives, modiers, and scales	| 	|	 Levinson (2002)  |		 |
 | ------------- | ------------- | ------------ 		|------------ |
-| 22.01.19	| Scales, modifiers, and adjectives| 	|	    |		 |
+| 22.01.19	| Metaphors & Irony| 	|	 Glucksberg; Gibbs   |		 |
 | ------------- | ------------- | ------------ 		|------------ |
-| 29.01.19	|Intonational meaning| 	|	Prieto (2015)    |		 |
+| 29.01.19	| Intonational meaning | 	|	Prieto (2015)    |		 |
 | ------------- | ------------- | ------------ 		|------------ |
 | 5.02.19	|Conversation/Dialogue|  Levinson & Torreria (2015)	|	    |		 |
 | ------------- | ------------- | ------------ 		|------------ |
@@ -115,29 +117,29 @@ https://www.pcibex.net/about-penncontroller/
 
 **Required readings**
 
+Asher, Nicholas, and Alex Lascarides. “The Semantics and Pragmatics of Presupposition.” Journal of Semantics, vol. 15, no. 3, 1998, pp. 239–300.
+
+Clark, Herbert & Clark, Eve (1979). When nouns surface as verbs. _Language_
+
+Eckhardt, Regina (2006). Meaning change in grammaticalization (Chapter 4)
+
+Farkas, D. F., and K. B. Bruce. “On Reacting to Assertions and Polar Questions.” Journal of Semantics, vol. 27, no. 1, Feb. 2010, pp. 81–118.
+
 Grice, H. Paul. “Meaning.” The Philosophical Review, 1957, pp. 377–88.
 
 Grice, H. Paul. “Utterer’s Meaning and Intention.” The Philosophical Review, 1969, pp. 147–77.
 
-
-Portner, Paul (2006). What is meaning?: Fundementals of Formal Semantics (Chapters 1 & 2)
-
-Eckhardt, Regina (2006). Meaning change in grammaticalization (Chapter 4)
-
-Partee, Barbara (1995).
-
-Clark, Herbert & Clark, Eve (1979). When nouns surface as verbs. _Language_
-
 Heim, Irene. (1991). Articles and definiteness. In A. von Stechow & D. Wunderlich (Eds.),Semantics: An international handbook of contemporary research(pp. 487-535). Berlin: de Gruyter. [Sections 1,1, 1.2.3, 2.1 only]
-
-Asher, Nicholas, and Alex Lascarides. “The Semantics and Pragmatics of Presupposition.” Journal of Semantics, vol. 15, no. 3, 1998, pp. 239–300.
-
-Prieto, Pilar. “Intonational Meaning.” Wiley Interdisciplinary Reviews: Cognitive Science, 2015.
 
 Lewis, David. (1979). Scorekeeping in a language game. Journal of Philosophical Logic, 8, 339-359.
 
-Stalnaker, Robert. (2002). Common ground. Linguistics and Philosophy, 25, 701-721.
+Partee, Barbara H. 1995. Lexical semantics and compositionality. In Lila R. Gleitman & Mark Liberman (eds.), Invitation to cognitive science, vol. 1, 311–360. Cambridge, MA: MIT Press.
 
+Portner, Paul (2006). What is meaning?: Fundementals of Formal Semantics (Chapters 1 & 2)
+
+Prieto, Pilar. “Intonational Meaning.” Wiley Interdisciplinary Reviews: Cognitive Science, 2015.
+
+Stalnaker, Robert. (2002). Common ground. Linguistics and Philosophy, 25, 701-721.
 
 Searle, John. (1965). What is a speech act? In M. Black (Ed.), Philosophy in America(pp. 221-239). Ithaca: Cornell University Press.
 
