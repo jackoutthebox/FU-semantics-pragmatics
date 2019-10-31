@@ -37,7 +37,7 @@ For students only wanting a “Teilnahmbescheinigung”, you will only need to p
 | ------------- | ------------- | ------------ 		|------------ |
 | 30.10.19		| Lexical semantics		| Partee (1995)(pgs); Johnson (2008) 	|			  |
 | ------------- | ------------- | ------------ 		|------------ |
-| 06.11.19		| Semantic composition (predicates)		| Portner ch. 2	|			  |
+| 06.11.19		| Semantic composition (predicates)		| Portner Chapters. 2 & 3	|			  |
 | ------------- | ------------- | ------------ 		|------------ |
 | 13.11.19		| Plurals/definitness (NPs) | Heim (1991)	|	    |
 | ------------- | ------------- | ------------ 		|------------ |
