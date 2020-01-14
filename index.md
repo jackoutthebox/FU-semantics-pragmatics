@@ -53,7 +53,7 @@ For students only wanting a “Teilnahmbescheinigung”, you will only need to p
 | ------------- | ------------- | ------------ 		|------------ |
 | 08.01.19		|  Implicatures	| 	|	Grice (1957); Grice (1969)    |		 |
 | ------------- | ------------- | ------------ 		|------------ |
-| 15.01.19		| Adjectives, modifiers, and scales	| 	|	 Levinson (2002)  |		 |
+| 15.01.19		| Adjectives, modifiers, and scales	| 	|	 van Tiel (2016))  |		 |
 | ------------- | ------------- | ------------ 		|------------ |
 | 22.01.19		| Metaphors & Irony| 	|	 Glucksberg; Gibbs   |		 |
 | ------------- | ------------- | ------------ 		|------------ |
